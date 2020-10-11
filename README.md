@@ -11,7 +11,7 @@ ___
 #### Topology
 ![Image of index](https://drive.google.com/uc?export=view&id=11cp_2IU4Ky45Cfe35Nfze_cvOkMX_tet)
 
-#### Runnig a script
+#### Running a script
 ![Image of index](https://drive.google.com/uc?export=view&id=1m2jhTk1Id0bHzjbHUrcJfZsv9Cz1Sig6)
 
 #### Results
